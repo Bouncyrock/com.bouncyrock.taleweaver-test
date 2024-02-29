@@ -1,0 +1,21 @@
+{
+  "name": "com.bouncyrock.taleweaver",
+  "displayName": "TaleWeaverLite",
+  "version": "0.0.17",
+  "unity": "2021.3",
+  "unityRelease": "28f1",
+  "description": "TaleWeaverLite is a package for preparing content so it can be loaded into TaleSpire",
+  "documentationUrl": "https://talespire.com/taleweaverlite-guide",
+  "dependencies": {
+    "com.unity.burst": "1.6.6",
+    "com.unity.collections": "0.15.0-preview.21",
+    "com.unity.jobs": "0.2.10-preview.11",
+    "com.unity.mathematics": "1.2.6",
+    "com.whinarn.unitymeshsimplifier": "3.1.0"
+  },
+  "author": {
+    "name": "Bouncyrock",
+    "email": "support@bouncyrock.com",
+    "url": "https://www.bouncyrock.com"
+  }
+}
