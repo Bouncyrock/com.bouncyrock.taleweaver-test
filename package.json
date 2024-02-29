@@ -1,7 +1,7 @@
 {
   "name": "com.bouncyrock.taleweaver",
   "displayName": "TaleWeaverLite",
-  "version": "0.0.23",
+  "version": "0.0.26",
   "unity": "2021.3",
   "unityRelease": "28f1",
   "description": "TaleWeaverLite is a package for preparing content so it can be loaded into TaleSpire",
